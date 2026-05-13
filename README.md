@@ -2,7 +2,7 @@
 
 Gliphs is for pages where text should look normal in the browser but be less useful when copied, indexed, or scraped. It replaces real characters with Private Use Area codepoints and generates a font that renders those replacements back as readable text.
 
-Demo: https://DenPyDev.github.io/gliphs/
+Demo:  https://denpydev.github.io/Gliphs/
 
 ## Usage
 
